@@ -1,22 +1,27 @@
 # 👋 Hello, I'm Abdelrahman Aladwani!
 
-## 🦄 About Me:
-I am a Cybersecurity & Digital Forensics enthusiast with hands-on experience in network security, forensic analysis, and Capture the Flag (CTF) challenges. I'm currently pursuing a bachelor's degree in Digital Forensics from Al-Balqa Applied University. With expertise in tools like Wireshark, Burp Suite, FTK Imager, and a strong foundation in security frameworks, I am passionate about solving cybersecurity problems. I am always learning and pushing myself further in cybersecurity, digital forensics, and penetration testing.
+## 🧠 About Me:
+I’m a recent Digital Forensics graduate who enjoys working with cybersecurity and system administration. I have hands-on experience from internships where I worked with tools like Wireshark, Burp Suite, and FTK Imager. I also learned how to install and manage Windows and Linux systems, set up Active Directory, and work with services like DHCP and DNS.
+
+I like solving problems, learning new tools, and understanding how systems work — both how to use them and how to protect them. I’m always improving my skills and exploring more in digital forensics and cybersecurity.
 
 ## 🎓 Education:
-- **Bachelor’s Degree in Digital Forensics** - Al-Balqa Applied University (2021 - 2025)
+- **Bachelor’s Degree in Digital Forensics** – Al-Balqa Applied University *(Graduated 2025)*
 
 ## 🛠 Skills:
-- **Programming Languages**: Python, HTML, CSS, SQL
-- **Operating Systems**: Windows, Linux, Tails, Whonix
-- **Cybersecurity Tools**: Wireshark, Burp Suite, FTK Imager, Autopsy, Nmap, Burp Suite, ZAP, Postman
-- **Digital Forensics**: Computer, Mobile, Network Forensics, Incident Response, CTF Challenges
-- **Specialties**: SOC Analyst, Web Application Exploitation, Penetration Testing
+- **Programming**: Python, HTML, CSS, SQL  
+- **Operating Systems**: Windows, Linux, Tails, Whonix  
+- **Cybersecurity Tools**: Wireshark, Burp Suite, FTK Imager, Autopsy, Nmap, ZAP, Postman  
+- **System Skills**: Windows Server, RHEL, Active Directory, DHCP, DNS, Hyper-V, Veeam (basic)  
+- **Digital Forensics**: Computer, Mobile, and Network Forensics, Incident Response, CTF Challenges  
 - **Other Tools**: PowerPoint, Word, Canva, Tableau Forensics Kit
 
 ## 🔧 Experience:
 ### **Pio-Tech | Information Security Intern**  
 *March 2025 – Present*  
-- Conducting security assessments and analyzing web vulnerabilities.  
-- Performing basic penetration testing and reviewing security logs.  
-- Assisting in the implementation of
+- Helped with security assessments and testing websites for common vulnerabilities  
+- Reviewed security logs and learned the basics of penetration testing  
+- Installed and managed Windows and Linux systems  
+- Worked with Active Directory and basic network settings like DHCP and DNS  
+- Used Hyper-V and started learning Veeam for backup tasks
+
