@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Abdelrahman Aladwani!
 
 ## 🧠 About Me:
-I’m a recent Digital Forensics graduate who enjoys working with cybersecurity and system administration. I have hands-on experience from internships where I worked with tools like Wireshark, Burp Suite, and FTK Imager. I also learned how to install and manage Windows and Linux systems, set up Active Directory, and work with services like DHCP and DNS.
-
-I like solving problems, learning new tools, and understanding how systems work — both how to use them and how to protect them. I’m always improving my skills and exploring more in digital forensics and cybersecurity.
+I am a recent graduate in Digital Forensics. I have basic hands-on experience in cybersecurity and system administration. During my internships, I gained practical experience in deploying and configuring both Windows and Linux systems, including setting up user roles, applying security policies, and managing system updates. I also worked with core services like Active Directory, DHCP, and DNS. I enjoy learning about how systems work and how to keep them safe. I’m a fast learner, and I like working in teams and solving problems. 
 
 ## 🎓 Education:
 - **Bachelor’s Degree in Digital Forensics** – Al-Balqa Applied University *(Graduated 2025)*
