@@ -1,5 +1,4 @@
-#  Hello, I'm Abdelrahman Aladwani!
-
+#  Hello, I'm ABDELRAHMAN ALADWANI
 ##  About Me:
 I am a dedicated SOC Analyst with a Bachelor's Degree in Digital Forensics and a robust foundation in cybersecurity and system administration. My expertise includes incident response, forensic analysis, and security testing, complemented by practical experience in managing and securing complex Windows and Linux environments.
 
