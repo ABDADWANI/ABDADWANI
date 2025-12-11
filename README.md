@@ -1,25 +1,17 @@
-# 👋 Hello, I'm Abdelrahman Aladwani!
+#  Hello, I'm Abdelrahman Aladwani!
 
-## 🧠 About Me:
-I am a recent graduate in Digital Forensics. I have basic hands-on experience in cybersecurity and system administration. During my internships, I gained practical experience in deploying and configuring both Windows and Linux systems, including setting up user roles, applying security policies, and managing system updates. I also worked with core services like Active Directory, DHCP, and DNS. I enjoy learning about how systems work and how to keep them safe. I’m a fast learner, and I like working in teams and solving problems. 
+##  About Me:
+I am a dedicated SOC Analyst with a Bachelor's Degree in Digital Forensics and a robust foundation in cybersecurity and system administration. My expertise includes incident response, forensic analysis, and security testing, complemented by practical experience in managing and securing complex Windows and Linux environments.
 
-## 🎓 Education:
-- **Bachelor’s Degree in Digital Forensics** – Al-Balqa Applied University *(Graduated 2025)*
+I specialize in leveraging core infrastructure services (Active Directory, DHCP, DNS) and industry-standard tools (Wireshark, Nmap, Burp Suite) to proactively identify, analyze, and mitigate threats. I possess strong analytical and problem-solving skills, thrive in collaborative team settings, and am committed to continuous professional development in the evolving threat landscape.
 
-## 🛠 Skills:
-- **Programming**: Python, HTML, CSS, SQL  
-- **Operating Systems**: Windows, Linux, Tails, Whonix  
-- **Cybersecurity Tools**: Wireshark, Burp Suite, FTK Imager, Autopsy, Nmap, ZAP, Postman  
-- **System Skills**: Windows Server, RHEL, Active Directory, DHCP, DNS, Hyper-V, Veeam (basic)  
-- **Digital Forensics**: Computer, Mobile, and Network Forensics, Incident Response, CTF Challenges  
-- **Other Tools**: PowerPoint, Word, Canva, Tableau Forensics Kit
+##  Education:
+- **Bachelor’s Degree in Digital Forensics – Al-Balqa Applied University (2025)*
+- 
+##  Experience:
+### **Shhhh | SOC Analyst**  
+*2025 – Present*  
 
-## 🔧 Experience:
-### **Pio-Tech | Information Security Intern**  
-*March 2025 – Present*  
-- Helped with security assessments and testing websites for common vulnerabilities  
-- Reviewed security logs and learned the basics of penetration testing  
-- Installed and managed Windows and Linux systems  
-- Worked with Active Directory and basic network settings like DHCP and DNS  
-- Used Hyper-V and started learning Veeam for backup tasks
+##  Certificates:
+- CCNA, DFE, Sec+
 
