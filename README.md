@@ -7,7 +7,7 @@ I specialize in leveraging core infrastructure services (Active Directory, DHCP,
 
 ##  Education:
 - **Bachelor’s Degree in Digital Forensics – Al-Balqa Applied University (2025)*
-- 
+
 ##  Experience:
 ### **Shhhh | SOC Analyst**  
 *2025 – Present*  
