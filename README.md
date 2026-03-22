@@ -1,16 +1,15 @@
 #  Hello, I'm ABDELRAHMAN ALADWANI
 ##  About Me:
-I am a dedicated SOC Analyst with a Bachelor's Degree in Digital Forensics and a robust foundation in cybersecurity and system administration. My expertise includes incident response, forensic analysis, and security testing, complemented by practical experience in managing and securing complex Windows and Linux environments.
+I am a Cybersecurity professional with a strong technical foundation in SOC Operations and Digital Forensics. Through Several internships, I have developed practical expertise in Active Directory, SIEM, and Packet Analysis. My experience covers managing Windows Server environments, virtualization, and core networking, allowing me to understand and defend complex infrastructures. I am committed to a path of continuous self-improvement, focusing on mastering incident response and threat detection to ensure organizational resilience.
 
-I specialize in leveraging core infrastructure services (Active Directory, DHCP, DNS) and industry-standard tools (Wireshark, Nmap, Burp Suite) to proactively identify, analyze, and mitigate threats. I possess strong analytical and problem-solving skills, thrive in collaborative team settings, and am committed to continuous professional development in the evolving threat landscape.
+With a background that bridges technical support and security analysis, I bring a proactive approach to troubleshooting and system protection. I have a deep curiosity for solving technical puzzles and a dedication to staying ahead of evolving cyber threats. My goal is to leverage my skills in Linux, Networking, and Security Investigations to contribute to a high-performing security team as a SOC Analyst.
 
 ##  Education:
 - **Bachelor’s Degree in Digital Forensics – Al-Balqa Applied University (2025)*
 
 ##  Experience:
-### **Shhhh | SOC Analyst**  
-*2025 – Present*  
+### **SOC Analyst @! **    
 
 ##  Certificates:
-- CCNA, DFE, Sec+
+- CCNA, DFE, Security+, eCIR
 
